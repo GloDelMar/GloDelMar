@@ -108,7 +108,7 @@ Inventory management system created for educational and food-service environment
 https://www.linkedin.com/in/gloriela-suarez-c
 
 🌐 Portfolio  
-glodelmar.github.io/gloriela-suarez-portfolio/
+https://glodelmar.github.io/gloriela-suarez-portfolio/
 
 💻 GitHub  
 https://github.com/GloDelMar
